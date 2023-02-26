@@ -17,3 +17,7 @@ Discord, Nextcord, Pycord
 - Bootstrap
 - MongoDB
 - PHP
+## Contact Me! 📝
+Email: levittluke083@gmail.com
+
+Discord: luke 🥀#0012
