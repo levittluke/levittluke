@@ -6,7 +6,7 @@ I Currently go to [Dickson Middle School](https://www.dcstn.org/dms.aspx) in Dic
 I currently program in a varity of different languages (and libraries) like,
 - Javascript
 ```
-Typescript, HTML, CSS, Node, Discord, Eris
+Typescript, HTML, CSS, Node, Discord, Eris, React
 ```
 - Python
 ```
@@ -17,6 +17,7 @@ Discord, Nextcord, Pycord
 - Bootstrap
 - MongoDB
 - PHP
+- Node
 ## Contact Me! 📝
 Email: levittluke083@gmail.com
 
